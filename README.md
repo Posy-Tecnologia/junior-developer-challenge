@@ -1,16 +1,16 @@
-# Desafio Prático para Desenvolvedor Júnior - Aluguel de Carros
+# Desafio Prático para Desenvolvedor Júnior - Welcome & Login
 
 Objetivo:
 
-- Desenvolver a interface das três primeiras telas de um aplicativo móvel para aluguel de carros, com base no protótipo e design fornecidos.
+- Desenvolver a interface das duas primeiras telas de um aplicativo móvel (Welcome e Login), com base no protótipo e design fornecidos.
 
 Recursos:
 
-- Protótipo e design da comunidade do Figma: [Link para o protótipo](https://www.figma.com/community/file/1116654425922336807/preview-only-rental-car-mobile-app-design)
+- Protótipo e design da comunidade do Figma: [Link para o protótipo](https://www.figma.com/community/file/1282291722642517542/onboarding-login-register-app-ui)
 
 Instruções:
 
-1. Utilize o design fornecido no protótipo do Figma para criar as três primeiras telas do aplicativo.
+1. Utilize o design fornecido no protótipo do Figma para criar as duas primeiras telas do aplicativo.
 2. O aplicativo deve seguir as melhores práticas de design e usabilidade para garantir uma experiência fluida para o usuário.
 3. Certifique-se de que a interface seja responsiva e compatível com dispositivos móveis de diferentes tamanhos de tela.
 4. Utilize React Native como framework para o desenvolvimento do aplicativo.
