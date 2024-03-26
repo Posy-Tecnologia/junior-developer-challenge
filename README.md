@@ -1,4 +1,4 @@
-# Desafio Prático para Desenvolvedores Júnior - Aluguel de Carros
+# Desafio Prático para Desenvolvedor Júnior - Aluguel de Carros
 
 Objetivo:
 
